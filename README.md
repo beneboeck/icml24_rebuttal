@@ -19,7 +19,7 @@ The observation dimension is M and the piecewise smooth functions have a dimensi
 
 ---
 
-Figure 2: Performance comparison with CK-SVD with sparsity levels 2, 4 and 8 (288 dictionary
+Figure 2: Performance comparison with CK-SVD [1,2] with sparsity levels 2, 4 and 8 (288 dictionary
 atoms) trained on measurements from varying measurement matrices for every training sample,
 respectively. All trainable models have been trained on a training set of 10000 compressed and
 noisy piecewise function with an SNR of 10dB. The observation dimension is M and the piecewise
@@ -29,7 +29,7 @@ smooth functions have a dimension of 256.
 
 ---
 
-Figure 3: Performance comparison with CK-SVD with sparsity levels 4 and 8 (128 dictionary atoms)
+Figure 3: Performance comparison with CK-SVD [1,2] with sparsity levels 4 and 8 (128 dictionary atoms)
 trained on measurements from varying measurement matrices for every training sample, respectively.
 All trainable models have been trained on a training set of 5000 compressed MNIST images. The
 observation dimension is M and the MNIST images have a dimension of 784. (The simulations for
