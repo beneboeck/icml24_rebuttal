@@ -35,8 +35,7 @@ truth dataset.
 
 <img src="figure_5_celebA_qualitative_M512_page-0001.jpg" width=80% height=80%>
 
-(___)
-
+---
 Figure 6: Exemplary reconstructed images from the grayscaled celebA dataset. sVaeCom has been
 trained on solely 1000 compressed training samples. The measurement dimension M equals 1024.
 The images have a dimension of 4096. The hyperparameter of Lasso has been tuned on a ground
