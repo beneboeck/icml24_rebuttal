@@ -7,7 +7,7 @@
 
 <img src="figure3_varying_measurement_matrices_for_all_mnist.png" width="700" height="500">
 
-<img src="figure_4_performance_on_celebA.png" width="700" height="500">
+<img src="figure_4_performance_on_celebA.png" width="700" height="400">
 
 <img src="figure_5_celebA_qualitative_M512.png" width="100" height="100">
 
