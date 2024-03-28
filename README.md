@@ -2,7 +2,7 @@
 
  ![Model](figure1_fixed_measurement_matrix_for_all_page-0001.jpg)
 
-<img src="figure2_varying_measurement_matrices_for_ck_svd.png" width="700" height="500">
+<img src="figure1_fixed_measurement_matrix_for_all_page-0001.jpg">
 
 <img src="figure3_varying_measurement_matrices_for_all_mnist.png" width="700" height="500">
 
