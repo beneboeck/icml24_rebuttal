@@ -9,6 +9,6 @@
 
 <img src="figure_4_performance_on_celebA.png" width="700" height="400">
 
-<img src="figure_5_celebA_qualitative_M512.png" width="100" height="100">
+<img src="figure_5_celebA_qualitative_M512.png" width="1000" height="250">
 
-<img src="figure_6_celebA_qualitative_M1024.png" width="100" height="100">
+<img src="figure_6_celebA_qualitative_M1024.png" width="1000" height="250">
