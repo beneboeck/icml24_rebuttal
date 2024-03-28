@@ -4,7 +4,7 @@ References:
 IEEE International Conference on Acoustics, Speech and Signal Processing,
 2013, pp. 5469–5473.
 
-[21] F. Pourkamali-Anaraki, S. Becker, and S. M. Hughes, “Efficient dictionary
+[2] F. Pourkamali-Anaraki, S. Becker, and S. M. Hughes, “Efficient dictionary
 learning via very sparse random projections,” in 2015 International Confer-
 ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
 
