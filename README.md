@@ -1,7 +1,6 @@
 1) Comparison with CK-SVD on piecewise smooth functions, where CK-SVD and our model both use one fixed measurement matrix for the whole training/validation/test set. (The baselines Lasso and FullGmmGt are kept)
 
-
-![Model](figure1_fixed_measurement_matrix_for_all.jpg)
+ ![Model](Paste_link_here)
 
 <img src="figure2_varying_measurement_matrices_for_ck_svd.png" width="700" height="500">
 
