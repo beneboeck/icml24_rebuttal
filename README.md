@@ -53,7 +53,7 @@ trained on solely 1000 compressed training samples. The measurement dimension M 
 The images have a dimension of 4096. The hyperparameter of Lasso has been tuned on a ground
 truth dataset.
 
-<img src="figure_5_celebA_qualitative_M512_page-0001.jpg" width=90% height=90%>
+<img src="figure_5_celebA_qualitative_M512_page-0001.jpg" width=100% height=100%>
 
 ---
 
@@ -62,4 +62,4 @@ trained on solely 1000 compressed training samples. The measurement dimension M 
 The images have a dimension of 4096. The hyperparameter of Lasso has been tuned on a ground
 truth dataset.
 
-<img src="figure_6_celebA_qualitative_M1024_page-0001.jpg" width=90% height=90%>
+<img src="figure_6_celebA_qualitative_M1024_page-0001.jpg" width=100% height=100%>
