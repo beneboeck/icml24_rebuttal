@@ -6,6 +6,6 @@
 
 <img src="figure3_varying_measurement_matrices_for_all_mnist_page-0001.jpg" width=60% height=60%>
 
-<img src="figure_5_celebA_qualitative_M512_page-0001.jpg" width=60% height=60%>
+<img src="figure_5_celebA_qualitative_M512_page-0001.jpg" width=80% height=80%>
 
-<img src="figure_6_celebA_qualitative_M1024_page-0001.jpg" width=60% height=60%>
+<img src="figure_6_celebA_qualitative_M1024_page-0001.jpg" width=80% height=80%>
