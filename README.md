@@ -1,4 +1,16 @@
-Figure 1: Performance comparison with CK-SVD with sparsity levels 4 and 8 (288 dictionary atoms)
+References:
+
+[1] F. Pourkamali Anaraki and S. M. Hughes, “Compressive k-svd,” in 2013
+IEEE International Conference on Acoustics, Speech and Signal Processing,
+2013, pp. 5469–5473.
+
+[21] F. Pourkamali-Anaraki, S. Becker, and S. M. Hughes, “Efficient dictionary
+learning via very sparse random projections,” in 2015 International Confer-
+ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
+
+---
+
+Figure 1: Performance comparison with CK-SVD [1,2] with sparsity levels 4 and 8 (288 dictionary atoms)
 trained on measurements from one fixed measurement matrix. All trainable models have been
 trained on a training set of 10000 compressed and noisy piecewise function with an SNR of 10dB.
 The observation dimension is M and the piecewise smooth functions have a dimension of 256.
