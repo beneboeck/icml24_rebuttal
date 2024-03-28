@@ -27,8 +27,8 @@ CK-SVD4 for M = 200 have not finished yet.)
 
 ---
 
-Figure 4: Performance of sVaeCom trained on a training set of 1000 grayscaled celebA 64 × 64 (i.e.,
-N = 4096) cropped and centered images. The model has been trained on measurements from
+Figure 4: Performance of sVaeCom trained on a training set of 1000 compressed grayscaled celebA 64 × 64 (i.e.,
+N = 4096), which were cropped and centered. The model has been trained on measurements from
 varying measurement matrices for every training sample, respectively. It is compared with Lasso,
 whose hyperparameter is tuned based on a ground-truth dataset.
 
