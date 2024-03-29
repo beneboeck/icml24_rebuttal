@@ -14,11 +14,8 @@ Figure 2: Performance comparison with CK-SVD [1,2] with sparsity levels 2, 4 and
 
 ---
 
-Figure 3: Performance comparison with CK-SVD [1,2] with sparsity levels 4 and 8 (128 dictionary atoms)
-trained on measurements from varying measurement matrices for every training sample, respectively.
-All trainable models have been trained on a training set of 5000 compressed MNIST images. The
-observation dimension is M and the MNIST images have a dimension of 784. (The simulations for
-CK-SVD4 for M = 200 have not finished yet.)
+Figure 3: Performance comparison with CK-SVD [1,2] with sparsity levels 4 and 8 (128 dictionary atoms). CK-SVD has been trained on measurements from varying measurement matrices for every training sample, respectively. We evaluated our proposed model sVaeCom with a fixed measurement matrix and with varying measurement matrices, respectively. 
+All trainable models have been trained on a training set of 5000 compressed MNIST images. The observation dimension is M and the MNIST images have a dimension of 784. (The simulations for CK-SVD4 for M = 200 have not finished yet.)
 
 <img src="figure3_varying_measurement_matrices_for_all_mnist_page-0001.jpg" width=60% height=60%>
 
