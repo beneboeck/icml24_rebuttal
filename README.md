@@ -25,10 +25,7 @@ All trainable models have been trained on a training set of 5000 compressed MNIS
 
 ---
 
-Figure 4: Performance of sVaeCom trained on a training set of 1000 compressed grayscaled celebA 64 × 64 (i.e.,
-N = 4096), which were cropped and centered. The model has been trained on measurements from
-varying measurement matrices for every training sample, respectively. It is compared with Lasso,
-whose hyperparameter is tuned based on a ground-truth dataset.
+Figure 4: Performance of sVaeCom trained on a training set of 1000 compressed grayscaled celebA 64 × 64 (i.e., N = 4096), which were cropped and centered. The model has been trained on measurements from varying measurement matrices for every training sample, respectively. It is compared with Lasso, whose hyperparameter is tuned based on a ground-truth dataset. The measurement dimension is M.
 
 <img src="figure_4_performance_on_celebA_page-0001.jpg" width=60% height=60%>
 
