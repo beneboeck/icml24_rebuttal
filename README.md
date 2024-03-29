@@ -1,12 +1,4 @@
-References:
-
-[1] F. Pourkamali Anaraki and S. M. Hughes, “Compressive k-svd,” in 2013
-IEEE International Conference on Acoustics, Speech and Signal Processing,
-2013, pp. 5469–5473.
-
-[2] F. Pourkamali-Anaraki, S. Becker, and S. M. Hughes, “Efficient dictionary
-learning via very sparse random projections,” in 2015 International Confer-
-ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
+### Comparison with CK-SVD
 
 ---
 
@@ -39,6 +31,10 @@ CK-SVD4 for M = 200 have not finished yet.)
 
 ---
 
+### Evaluation on CelebA
+
+---
+
 Figure 4: Performance of sVaeCom trained on a training set of 1000 compressed grayscaled celebA 64 × 64 (i.e.,
 N = 4096), which were cropped and centered. The model has been trained on measurements from
 varying measurement matrices for every training sample, respectively. It is compared with Lasso,
@@ -63,3 +59,15 @@ The images have a dimension of 4096. The hyperparameter of Lasso has been tuned 
 truth dataset.
 
 <img src="figure_6_celebA_qualitative_M1024_page-0001.jpg" width=100% height=100%>
+
+---
+
+References:
+
+[1] F. Pourkamali Anaraki and S. M. Hughes, “Compressive k-svd,” in 2013
+IEEE International Conference on Acoustics, Speech and Signal Processing,
+2013, pp. 5469–5473.
+
+[2] F. Pourkamali-Anaraki, S. Becker, and S. M. Hughes, “Efficient dictionary
+learning via very sparse random projections,” in 2015 International Confer-
+ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
