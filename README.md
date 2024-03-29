@@ -1,3 +1,5 @@
+### The following results are preliminary and will be updated regularly 
+
 ### Comparison with CK-SVD
 
 ---
