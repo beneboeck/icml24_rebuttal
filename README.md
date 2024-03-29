@@ -8,11 +8,7 @@ Figure 1: Performance comparison with CK-SVD [1,2] with sparsity levels 4 and 8 
 
 ---
 
-Figure 2: Performance comparison with CK-SVD [1,2] with sparsity levels 2, 4 and 8 (288 dictionary
-atoms) trained on measurements from varying measurement matrices for every training sample,
-respectively. All trainable models have been trained on a training set of 10000 compressed and
-noisy piecewise function with an SNR of 10dB. The observation dimension is M and the piecewise
-smooth functions have a dimension of 256.
+Figure 2: Performance comparison with CK-SVD [1,2] with sparsity levels 2, 4 and 8 (288 dictionary atoms). CK-SVD has been trained on measurements from varying measurement matrices for every training sample, respectively. Our proposed models (sVaeCom & sVaeGmm) have been trained on measurements from one fixed measurement matrix.All trainable models have been trained on a training set of 10000 compressed and noisy piecewise function with an SNR of 10dB. The observation dimension is M and the piecewise smooth functions have a dimension of 256.
 
 <img src="figure2_varying_measurement_matrices_for_ck_svd_page-0001.jpg" width=60% height=60%>
 
