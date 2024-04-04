@@ -2,6 +2,10 @@
 
 ---
 
+### Comparison with the GAN and AmbientGAN (updated 4 April 2024)
+
+---
+
 ### Comparison with CK-SVD
 
 ---
