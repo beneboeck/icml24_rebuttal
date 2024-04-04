@@ -117,6 +117,10 @@ Figure 12: Generated MNIST images with the AmbientGAN trained on compressed data
 
 ---
 
+The Wasserstein GAN architecture with gradient penalty is taken from [3]. We used a generator with latent dimension of 128, which is uniformly distributed between -1 and 1. The generator applies one linear and three deconvolutional layers with ReLU activation function after each layer, respectively. The discriminator consists of three convolutional layer and one linear layer. Batch-Norm is not used. We used Adam for the reconstruction task with a learning rate of 0.003 and a hyperparameter of 0.1 for the l2-penalty on the GAN's latent variable in accordance with [4]. 
+
+---
+
 References:
 
 [1] F. Pourkamali Anaraki and S. M. Hughes, “Compressive k-svd,” in 2013
@@ -128,4 +132,6 @@ learning via very sparse random projections,” in 2015 International Confer-
 ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
 
 [3] A. Bora, E. Price, and A. G. Dimakis, “AmbientGAN: Generative models from lossy measurements,” in Int. Conf. on Learning Representations, 2018.
+
+[4] Bora, A., Jalal, A., Price, E., and Dimakis, A. G. Compressed sensing using generative models. In Proceedings of the 34th Int. Conf. on Machine Learning, volume 70 of Proc. of Machine Learning Research, pp. 537–546. PMLR, Aug 2017.
 
