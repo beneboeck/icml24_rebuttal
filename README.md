@@ -99,14 +99,19 @@ A fair comparison is to compare with the AmbientGAN [3] trained on compressed da
 
 ---
 
+Figure 10: Generated MNIST images with the GAN trained on ground truth data.
 
 <img src="gtGanGenerated.jpg" width=100% height=100%>
 
 ---
 
+Figure 11: Generated MNIST images with the AmbientGAN trained on compressed data with Gaussian measurement matrices. The training failed.
+
 <img src="ambientGanGeneratedGaussian.jpg" width=100% height=100%>
 
 ---
+
+Figure 12: Generated MNIST images with the AmbientGAN trained on compressed data with measurement matrices with randomly mask out half of the pixels. The perceptual quality roughly matches the one in [3], which generated MNIST images in the same setting in Fig. 11 (fourth column, second row).
 
 <img src="ambientGanGeneratedP05.jpg" width=100% height=100%>
 
@@ -123,3 +128,4 @@ learning via very sparse random projections,” in 2015 International Confer-
 ence on Sampling Theory and Applications (SampTA), 2015, pp. 478–482.
 
 [3] A. Bora, E. Price, and A. G. Dimakis, “AmbientGAN: Generative models from lossy measurements,” in Int. Conf. on Learning Representations, 2018.
+
