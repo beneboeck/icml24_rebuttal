@@ -95,6 +95,14 @@ A fair comparison is to compare with the AmbientGAN [3] trained on compressed da
 
 ---
 
+<img src="ambientgancomparison.jpg" width=60% height=60%>
+
+---
+
+<img src="ambientgancomparison_qualitativ.jpg" width=100% height=100%>
+
+---
+
 To evaluate the proper training of the GANs, we plotted generated MNIST images with the GAN trained on ground truth data (Fig. 10), with the AmbientGAN trained on compressed data with Gaussian measurement matrices (Fig. 11), and with the AmbientGAN trained on compressed data with masked pixels (Fig. 12). Moreover, we added a detailed description of the GAN models and the compressive sensing reconstruction at the very end.
 
 
