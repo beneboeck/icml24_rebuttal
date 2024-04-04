@@ -111,7 +111,7 @@ Figure 11: Generated MNIST images with the AmbientGAN trained on compressed data
 
 ---
 
-Figure 12: Generated MNIST images with the AmbientGAN trained on compressed data with measurement matrices with randomly mask out half of the pixels. The perceptual quality roughly matches the one in [3], which generated MNIST images in the same setting in Fig. 11 (fourth column, second row).
+Figure 12: Generated MNIST images with the AmbientGAN trained on compressed data with measurement matrices, which randomly mask out half of the pixels. The perceptual quality roughly matches the one in [3], which generated MNIST images in the same setting in Fig. 11 (fourth column, second row).
 
 <img src="ambientGanGeneratedP05.jpg" width=100% height=100%>
 
