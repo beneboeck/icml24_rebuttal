@@ -73,9 +73,9 @@ Due to the mismatch in the training data (our model learns from compressed data 
 
 Figure 8: Exemplary reconstructed images from MNIST for M = 200 with
 
-the GAN trained on ground truth data and
+- the GAN trained on ground truth data and
 
-the sVaeCom trained on compressed data.
+- the sVaeCom trained on compressed data.
 
 <img src="gtGan_sVaeComM200.jpg" width=100% height=100%>
 
@@ -83,9 +83,9 @@ the sVaeCom trained on compressed data.
 
 Figure 9: Exemplary reconstructed images from MNIST for M = 120 with
 
-the GAN trained on ground truth data and
+- the GAN trained on ground truth data and
 
-the sVaeCom trained on compressed data.
+- the sVaeCom trained on compressed data.
 
 <img src="gtGan_sVaeComM120.jpg" width=100% height=100%>
 
