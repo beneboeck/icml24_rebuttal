@@ -57,6 +57,10 @@ truth dataset.
 
 ---
 
+To evaluate the proper training of the GANs, we plotted generated MNIST images with the GAN trained on ground truth data (Fig. 10), with the AmbientGAN trained on compressed data with Gaussian measurement matrices (Fig. 11), and with the AmbientGAN trained on compressed data with masked pixels (Fig. 12). Moreover, we added a detailed description of the GAN models and the compressive sensing reconstruction at the very end.
+
+---
+
 Figure 7: Reconstruction performance comparison between
 1) sVaeCom trained on a training set of 5000 **compressed** MNIST images with 
 2) a WassersteinGan with gradient penality trained on 5000 **ground truth** images.
