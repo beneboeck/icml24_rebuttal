@@ -6,6 +6,30 @@
 
 ---
 
+<img src="gtGan_sVaeCom_mnist.jpg" width=60% height=60%>
+
+---
+
+<img src="gtGan_sVaeComM200.jpg" width=100% height=100%>
+
+---
+
+<img src="gtGan_sVaeComM120.jpg" width=100% height=100%>
+
+---
+
+<img src="gtGanGenerated.jpg" width=100% height=100%>
+
+---
+
+<img src="ambientGanGeneratedGaussian.jpg" width=100% height=100%>
+
+---
+
+<img src="ambientGanGeneratedP05.jpg" width=100% height=100%>
+
+---
+
 ### Comparison with CK-SVD
 
 ---
